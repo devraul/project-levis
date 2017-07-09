@@ -1,7 +1,7 @@
 	
 	<section id="polaris">
 		<div id="boxItens">
-			<a href="#" class="fechar"><img src="http://www.levialves.com.br/frontend/imgs/bt-fechar.png" alt="Botão Fechar"></a>
+			<a href="#" class="fechar"><img src="imgs/bt-fechar.png" alt="Botão Fechar"></a>
 
 			<div class="conteudo">
 				<div class="web">
@@ -12,7 +12,7 @@
 						</div>
 						<div class="img">
 							<div>
-								<img src="http://www.levialves.com.br/frontend/imgs/polaris/2.jpg" alt="Polaris Viagem">
+								<img src="imgs/polaris/2.jpg" alt="Polaris Viagem">
 							</div>
 						</div>
 						<p class="descricao">Descrição - <span>Somos uma agência de turismo com mais de vinte anos no mercado, oferecendo atendimento inovador e único em gestão de viagens.</span></p>

@@ -1,7 +1,7 @@
 	
 	<section id="home">
 		<div id="boxItens">
-			<a href="#" class="fechar"><img src="http://www.levialves.com.br/frontend/imgs/bt-fechar.png" alt="Botão Fechar"></a>
+			<a href="#" class="fechar"><img src="imgs/bt-fechar.png" alt="Botão Fechar"></a>
 
 			<div class="conteudo">
 				<div class="web">
@@ -12,7 +12,7 @@
 						</div>
 						<div class="img">
 							<div>
-								<img src="http://www.levialves.com.br/frontend/imgs/home/2.jpg" alt="home studio 47">
+								<img src="imgs/home/2.jpg" alt="home studio 47">
 							</div>
 						</div>
 						<p class="descricao">Descrição - <span>Home Studio é um empreendimento que apresenta uma nova maneira de morar bem. Home é o seu espaço. Studio é o seu estilo.</span></p>
@@ -27,7 +27,7 @@
 						</div>
 						<div class="img img2">
 							<div>
-								<img src="http://www.levialves.com.br/frontend/imgs/home/03.png" alt="home studio 47">
+								<img src="imgs/home/03.png" alt="home studio 47">
 							</div>
 						</div>
 						<p class="descricao">Descrição - <span>Home Studio é um empreendimento que apresenta uma nova maneira de morar bem. Home é o seu espaço. Studio é o seu estilo.</span></p>

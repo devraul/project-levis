@@ -1,7 +1,7 @@
 	
 	<section id="setin">
 		<div id="boxItens">
-			<a href="#" class="fechar"><img src="http://www.levialves.com.br/frontend/imgs/bt-fechar.png" alt="Botão Fechar"></a>
+			<a href="#" class="fechar"><img src="imgs/bt-fechar.png" alt="Botão Fechar"></a>
 
 			<div class="conteudo">
 				<div class="mobile">
@@ -12,7 +12,7 @@
 						</div>
 						<div class="img img2">
 							<div>
-								<img src="http://www.levialves.com.br/frontend/imgs/setin/3.png" alt="SETIN Incorporadora">
+								<img src="imgs/setin/3.png" alt="SETIN Incorporadora">
 							</div>
 						</div>
 						<p class="descricao">Descrição - <span>Desde sua fundação em 1979, a Setin tem se firmado no mercado imobiliário como uma Incorporadora pioneira.</span></p>

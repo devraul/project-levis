@@ -514,7 +514,7 @@ article {
     height: 600px;
 }
 #contato .redes {
-    border-right: 1px solid #000;
+    border-right: 1px solid #fff;
     float: left;
     margin-right: 20px;
     padding-right: 20px;

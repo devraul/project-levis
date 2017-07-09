@@ -1,7 +1,7 @@
 	
 	<section id="bedesign">
 		<div id="boxItens">
-			<a href="#" class="fechar"><img src="http://www.levialves.com.br/frontend/imgs/bt-fechar.png" alt="Botão Fechar"></a>
+			<a href="#" class="fechar"><img src="imgs/bt-fechar.png" alt="Botão Fechar"></a>
 
 			<div class="conteudo">
 				<div class="mobile">
@@ -12,7 +12,7 @@
 						</div>
 						<div class="img img2">
 							<div>
-								<img src="http://www.levialves.com.br/frontend/imgs/bedesign/3.png" alt="Be Design">
+								<img src="imgs/bedesign/3.png" alt="Be Design">
 							</div>
 						</div>
 						<p class="descricao">Descrição - <span>Você no seu tempo, vivendo do seu jeito</span></p>

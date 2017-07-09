@@ -1,7 +1,7 @@
 	
 	<section id="must">
 		<div id="boxItens">
-			<a href="#" class="fechar"><img src="http://www.levialves.com.br/frontend/imgs/bt-fechar.png" alt="Botão Fechar"></a>
+			<a href="#" class="fechar"><img src="imgs/bt-fechar.png" alt="Botão Fechar"></a>
 
 			<div class="conteudo">
 				<div class="web">
@@ -12,7 +12,7 @@
 						</div>
 						<div class="img">
 							<div>
-								<img src="http://www.levialves.com.br/frontend/imgs/must/2.jpg" alt="Must Jardim São Paulo">
+								<img src="imgs/must/2.jpg" alt="Must Jardim São Paulo">
 							</div>
 						</div>
 						<p class="descricao">Descrição - <span>Apartamento em Santana com as dimensões perfeitas para uma vida com muito conforto e comodidade.</span></p>
@@ -27,7 +27,7 @@
 						</div>
 						<div class="img img2">
 							<div>
-								<img src="http://www.levialves.com.br/frontend/imgs/must/03.png" alt="Must Jardim São Paulo">
+								<img src="imgs/must/03.png" alt="Must Jardim São Paulo">
 							</div>
 						</div>
 						<p class="descricao">Descrição - <span>Apartamento em Santana com as dimensões perfeitas para uma vida com muito conforto e comodidade.</span></p>

@@ -1,7 +1,7 @@
 	
 	<section id="mandala">
 		<div id="boxItens">
-			<a href="#" class="fechar"><img src="http://www.levialves.com.br/frontend/imgs/bt-fechar.png" alt="Botão Fechar"></a>
+			<a href="#" class="fechar"><img src="imgs/bt-fechar.png" alt="Botão Fechar"></a>
 
 			<div class="conteudo">
 				<div class="mobile">
@@ -12,7 +12,7 @@
 						</div>
 						<div class="img img2">
 							<div>
-								<img src="http://www.levialves.com.br/frontend/imgs/mandala/3.png" alt="Mandala Curitiba">
+								<img src="imgs/mandala/3.png" alt="Mandala Curitiba">
 							</div>
 						</div>
 						<p class="descricao">Descrição - <span>Uma nova dimensão de viver</span></p>
